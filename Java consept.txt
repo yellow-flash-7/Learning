@@ -1,0 +1,45 @@
+Java Introduction
+       ↓
+Setup + VS Code
+       ↓
+Basic Syntax
+       ↓
+Variables
+       ↓
+Data Types
+       ↓
+Input
+       ↓
+Operators
+       ↓
+if / else
+       ↓
+Loops
+       ↓
+Arrays
+       ↓
+Strings
+       ↓
+Methods
+       ↓
+OOP ⭐
+       ↓
+Exception Handling
+       ↓
+Collections ⭐
+       ↓
+Generics
+       ↓
+File Handling
+       ↓
+Multithreading
+       ↓
+JDBC + PostgreSQL
+       ↓
+Modern Java
+       ↓
+Spring Boot
+       ↓
+REST API
+       ↓
+Projects 🚀
