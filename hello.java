@@ -13,13 +13,13 @@ class hello{
         int a= 29;
         int cas =99;
         int bank =2999;
-        char A="A IN A";
+        String A ="A IN A";
         String name = "hello";
         boolean isTrue = true; 
-        float f= 10.8999999;    
+        float f= 10.59999909099989898f;    
 
 
-        System.out.println(a,cas,bank,A,name,isTrue,f);
+        System.out.println(a+"\n"+cas+"\n"+bank+"\n"+A+"\n"+name+"\n"+isTrue+"\n"+f);
 
 
     }
