@@ -1,13 +1,6 @@
 class hello {
-
-    public static void main(String args[]) {
-
-        int a = 30;
-
-        for (int i = 0; i < a; a) {
-
-            System.out.println(a);
-
-        }
+    public static void main(String[] args) {
+        System.out.println("I am Karthick");
+        System.out.println("From Rajapalayam");
     }
 }
