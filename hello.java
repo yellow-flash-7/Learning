@@ -44,16 +44,14 @@
 // Interface
 // Enum  }
 
-class hello{
-    public static void main(String args[]){
-        int a=10;
-        String name="Karthick";
-        boolean pass=true;
-        char grade='A';
-        byte age=20;
-
-
-        System.out.println(a + "\n" + name + "\n" + pass + "\n" + grade + "\n" + age);
-
-    }
-}
+// | Data type |              Size |
+// | --------- | ----------------: |
+// | `byte`    |            1 byte |
+// | `short`   |           2 bytes |
+// | `int`     |           4 bytes |
+// | `long`    |           8 bytes |
+// | `float`   |           4 bytes |
+// | `double`  |           8 bytes |
+// | `char`    |           2 bytes |
+// | `boolean` |         Not fixed |
+// | `String`  | **Variable size** |
