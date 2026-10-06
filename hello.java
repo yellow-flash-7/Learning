@@ -55,3 +55,8 @@
 // | `char`    |           2 bytes |
 // | `boolean` |         Not fixed |
 // | `String`  | **Variable size** |
+
+
+class hello{
+    hi=hi
+}
