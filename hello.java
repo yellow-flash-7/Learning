@@ -56,7 +56,16 @@
 // | `boolean` |         Not fixed |
 // | `String`  | **Variable size** |
 
+import java.util.Scanner;
 
-class hello{
-    hi=hi
+class Input {
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter your name: ");
+        String name = sc.nextLine();
+
+        System.out.println("Hello " + name);
+    }
 }
